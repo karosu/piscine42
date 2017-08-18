@@ -1,0 +1,5 @@
+Credentials cache: API:25311
+        Principal: cosorio@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  8 09:47:41 2017  Aug  8 19:47:41 2017  krbtgt/42.US.ORG@42.US.ORG
